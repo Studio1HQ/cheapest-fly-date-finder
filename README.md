@@ -12,7 +12,7 @@ Instead of guessing return dates, users specify a **flexible departure window** 
 
 - **Node.js** 18.17+ or later
 - **npm**, **pnpm**, or **yarn**
-- A **[SearchApi](https://www.searchapi.io/)** API key
+- A **[SearchApi](https://www.searchapi.io/?utm_source=Dev&utm_medium=Ambassador&utm_campaign=studio1hq.com)** API key
 
 ### 2. Install Dependencies
 
